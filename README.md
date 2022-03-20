@@ -9,8 +9,7 @@ Starting Basemap:
 
 GIS Assignment 1:
 
-[
-  {
+ {
     "elementType": "geometry",
     "stylers": [
       {
@@ -270,4 +269,3 @@ GIS Assignment 1:
       }
     ]
   }
-]
