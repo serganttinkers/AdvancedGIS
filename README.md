@@ -26,4 +26,4 @@ I have already applied to several positions which would greatly benefit from geo
 
 ## Assignment 1
 
-[Link to Assignment 1](page1.md)
+[Link to Assignment 1](/page1.md)
