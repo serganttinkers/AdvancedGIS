@@ -26,4 +26,4 @@ I have already applied to several positions which would greatly benefit from geo
 
 ## Assignment 1
 
-[Link to Assignment 1](/page1.md)
+[Link to Assignment 1](https://github.com/serganttinkers/AdvancedGIS/blob/5080e160eee08d779d4d99da1c7b80f892136d91/Page1.md)
