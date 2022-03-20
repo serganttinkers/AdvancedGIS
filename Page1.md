@@ -21,3 +21,5 @@ Knowing that Human Rights Watch (HRW) operates worldwide and likely focuses on l
 Most labels are white with a dark grey outline, which matches the style of the HRW website while ensuring the text stands out among the white, orange, and blue features. However, label outlines for natural resources are blue to match the resources to which they apply and make them easily distinguishable. Note that minor roads are outlined with dark grey, but these features have been removed from the map using the "Roads" setting. This is because HRW often works in areas where data on minor roads is inconsistent or unreliable and is likely not as important. 
 
 Because the map prioritizes transportation and natural resources, most other features use the previously mentioned white color with no outline. This ensures they are visible but do not clutter the map. Finally, the "Silver" theme was used as a starting point for basemap design. The white and light grey base colors complement the saturated orange and blue colors and are appropriate for the HRW website, which is dominated by white, blue, and orange colors. 
+
+[Return to main page](https://serganttinkers.github.io/AdvancedGIS/)
