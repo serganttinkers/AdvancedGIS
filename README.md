@@ -24,6 +24,4 @@ I have already applied to several positions which would greatly benefit from geo
 
 # Advanced GIS Coursework
 
-## Assignment 1
-
-[Link to Assignment 1](https://serganttinkers.github.io/AdvancedGIS/Page1)
+[Assignment 1](https://serganttinkers.github.io/AdvancedGIS/Page1)
