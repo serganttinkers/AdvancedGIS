@@ -4,13 +4,16 @@
 This assignment guided students through an exercise demonstrating the forest-based classification tool in ArcGIS. For the uninitiated, the tool is a classification method where data are algorithmically categorized using a large number of simple decision trees that make up a "forest." A portion of the data set is used as "training" data and the rest is used to create and test a model. Combined, the large number of trees make it possible to sort large numbers of unclassified data. Combining relevant variables can be done to improve model accuracy, but note that adding too many can create an over-fitting problem where the model is too specialized to predict unfamiliar data.
 
 In this exercise, county-level voting information (such as voter education level,voter income, voter turnout, election competitiveness, etc.) was used to predict tract-level voter turnouts in Iowa. Below is a map of the predicted values.
-[Iowa Map]
+[Iowa Map](https://github.com/serganttinkers/AdvancedGIS/blob/66d17df993612c99386d13415aba2e0cd9e5146c/Iowa%20prediction.JPG)
 
 Several tools are available to learn how relevant certain variables may be to model functioning. The Distribution of Variable Importance tool shows how different variables included in the model may be impacting model outputs. Below, Per Capita Income and State Percent Votes Difference are the most influential variables in the analyis while State Voting Requirements Laws appear to be a much less effective predictor for voting turnout.
-[Distribution of Variable Importance]
+[Distribution of Variable Importance](https://github.com/serganttinkers/AdvancedGIS/blob/66d17df993612c99386d13415aba2e0cd9e5146c/distribution%20of%20variable%20importance.JPG)
 
 The model also compares the predicted values with a chart of their confidence intervals. The Prediction Interval generated for this exercise is shown below.
-[Prediction Interval]
+[Prediction Interval](https://github.com/serganttinkers/AdvancedGIS/blob/66d17df993612c99386d13415aba2e0cd9e5146c/Prediction%20Interval.JPG)
+
+A separate exercise was included as a stretch goal, which guided students through using the Build Balanced Zones tool to assign a "Get The Vote Out" canvassing effort to five people. While not related to the forest-based classification tool, the exercise was also used in the course final project. A map output of the tool is shown below.
+[Build Balanced Zones](https://github.com/serganttinkers/AdvancedGIS/blob/66d17df993612c99386d13415aba2e0cd9e5146c/zones.JPG)
 
 ## Response
 I am a very big fan of algorithmic prediction tools in data analysis. For example, I used clustering analysis in my systems project to determine which census tracts are particularly underserved by Pennsylvania’s Department of Transportation. Because of this, I was pretty eager to learn about the forest-based method. I have never used or heard of this predictive model, but the same concepts used in cluster analysis, regression analysis, and other forecasting and predictive models apply. By feeding different data into a model, the model generally becomes more accurate. However, adding too many variables creates an overfitting issue where the model is so fine-tuned with the data provided that it can only provide accurate predictions for data it already has.
