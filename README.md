@@ -29,3 +29,5 @@ I have already applied to several positions which would greatly benefit from geo
 [Assignment 2](https://serganttinkers.github.io/AdvancedGIS/Page2)
 
 [Assignment 3](https://serganttinkers.github.io/AdvancedGIS/Page3)
+
+[Assignment 4](https://serganttinkers.github.io/AdvancedGIS/Page4)
