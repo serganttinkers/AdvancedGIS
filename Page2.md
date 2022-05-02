@@ -7,3 +7,5 @@ However, I repeatedly wondered if I would be able to use this program in my curr
 Another thing that struck me was the lack of presentation software available in Insights. The ability to paste the code of a fancy interactive chart with multiple windows into Github was certainly impressive, but Pro has many other presentation materials available. In addition to their Storymap and Dashboard services, the ability to create professional Layouts is a serious advantage of Pro. I could see recommending Insights for an NGO or small company, but I am better off knowing Pro since I plan on working for places that can afford it like the federal government and international organizations. Had I taken a course on ArcGIS Insights instead, I doubt I would have gotten my money’s worth.
 
 [Slidedeck of Key Differences between ArcGIS Insights and ArcGIS Pro](https://docs.google.com/presentation/d/1R4XbVAVhOxiaghFwx5_IJhrJlYVfiOovfflP4vC1j2E/edit?usp=sharing)
+
+[Return to main page](https://serganttinkers.github.io/AdvancedGIS/)
