@@ -33,3 +33,5 @@ Closer look at chosen locations:
 ![SiteCloser](https://github.com/serganttinkers/AdvancedGIS/blob/main/SitesClose.JPG?raw=true)
 
 The chosen locations can be further analyzed based on narrower, localized data to chose ideal locations between them or consider local factors. It is important to note that the weights provided by the module are not scientifically-derived and are based on the needs of the client. Changing the weights could lead to very different results. 
+
+[Return to main page](https://serganttinkers.github.io/AdvancedGIS/)
