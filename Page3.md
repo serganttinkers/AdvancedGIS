@@ -1,4 +1,4 @@
-##Discussion on Spatial Data Science Methods and the ArcGIS Notebooks Feature
+## Discussion on Spatial Data Science Methods and the ArcGIS Notebooks Feature
 
 To be perfectly honest, I finished the Notebooks exercise wondering how I would be able to use this feature. While I have R experience from an introductory course last mini, I do not have Python experience and may not have it for a while. I am wrapping up the GIS component of my systems project and I cannot think of a time when this tool would have been worth the time it would take to develop a proficient understanding of its use. After looking up the Notebooks feature a little bit more, I remembered that despite there being three people on my systems team with ArcGIS experience, I am the only one doing any work on this program. The fact that geodatabases contain multiple folders of data and require numerous steps both on and off the program just to manipulate the data means that sharing in-progress work with others or sharing ArcGIS work is difficult and impractical.
 
